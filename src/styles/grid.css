@@ -1,0 +1,12 @@
+.grid {
+margin-top: 16px;
+display: inline-block;
+background: rgba(255, 255, 255, 0.03);
+padding: 10px;
+border-radius: 8px;
+}
+
+
+.grid-row {
+display: flex;
+}

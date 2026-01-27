@@ -1,0 +1,31 @@
+.node {
+width: 18px;
+height: 18px;
+border: 1px solid rgba(255, 255, 255, 0.05);
+transition: background-color 0.2s ease;
+}
+
+
+.node-start {
+background-color: #10b981;
+}
+
+
+.node-end {
+background-color: #ef4444;
+}
+
+
+.node-wall {
+background-color: #111827;
+}
+
+
+.node-visited {
+background-color: #6366f1;
+}
+
+
+.node-path {
+background-color: #f59e0b;
+}
